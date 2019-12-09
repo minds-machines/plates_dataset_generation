@@ -4,6 +4,7 @@ Created on Thu Nov 28 20:59:43 2019
 
 @author: estudiante
 """
+#This is a commentary just for you that are reading this
 import random
 import numpy as np
 import cv2
